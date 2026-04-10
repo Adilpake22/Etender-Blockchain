@@ -224,3 +224,17 @@ The `Blockchain.php` helper simulates on-chain behavior without any external dep
 ## 📄 License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
+
+
+
+
+
+<img width="766" height="873" alt="image" src="https://github.com/user-attachments/assets/723a46b1-b7f2-4a4a-8c2d-4c271c8147d7" />
+<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/ff9ff09e-a4c5-4219-a08d-00e165354ab0" />
+<img width="1302" height="809" alt="image" src="https://github.com/user-attachments/assets/b6c9ffde-13b5-4384-a7b6-c226f2365a84" />
+<img width="1600" height="699" alt="image" src="https://github.com/user-attachments/assets/440b4873-6c35-46a7-b169-91b6b22b627e" />
+
+
+
+
